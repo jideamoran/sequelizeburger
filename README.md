@@ -1,0 +1,2 @@
+# sequelizeburger
+sequelize burger activity
